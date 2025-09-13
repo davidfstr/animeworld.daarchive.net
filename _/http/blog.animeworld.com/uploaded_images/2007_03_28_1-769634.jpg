@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head><meta content="noindex,nofollow" name="robots"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<meta content="WordPress 6.0.1" name="generator"/>
+<title>Akemi’s Anime Blog :  » Page not found : AAW</title>
+<!--[if IE]><![if gte IE 8]><![endif]-->
+<link href="../../../../stylesheets/mainstyle_v30.css" id="fullcss" media="screen, projection" rel="stylesheet" type="text/css"/>
+<link href="../../../../stylesheets/mobile_style_v30.css" id="mobilecss" media="only handheld" rel="stylesheet" type="text/css"/>
+<!--[if IE]><![endif]><![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://animeworld.com/stylesheets/old_ie_v30.css" media="screen" />
+	<![endif]-->
+<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://animeworld.com/stylesheets/really_old_ie_v30.css" media="screen" />
+	<![endif]-->
+<meta content="width=520px" name="viewport"/>
+<link href="../wp-content/themes/aaw3/style.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="../feed/index.html" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+<link href="../xmlrpc.php" rel="pingback"/>
+<script src="../../../../javascript/aawspecific-standalone-v10.yui.js" type="text/javascript"></script>
+<script type="text/javascript">
+set_css_from_cookie();
+</script>
+<meta content="max-image-preview:large" name="robots"/>
+<link href="../../s.w.org/index.html" rel="dns-prefetch"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"../../../https/s.w.org/images/core/emoji/14.0.0/72x72/index.html","ext":".png","svgUrl":"../../../https/s.w.org/images/core/emoji/14.0.0/svg/index.html","svgExt":".svg","source":{"concatemoji":"../wp-includes/js/wp-emoji-release.min.js$/ver=6.0.1.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="../wp-includes/css/dist/block-library/style.min.css$/ver=6.0.1.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url("#wp-duotone-dark-grayscale");--wp--preset--duotone--grayscale: url("#wp-duotone-grayscale");--wp--preset--duotone--purple-yellow: url("#wp-duotone-purple-yellow");--wp--preset--duotone--blue-red: url("#wp-duotone-blue-red");--wp--preset--duotone--midnight: url("#wp-duotone-midnight");--wp--preset--duotone--magenta-yellow: url("#wp-duotone-magenta-yellow");--wp--preset--duotone--purple-green: url("#wp-duotone-purple-green");--wp--preset--duotone--blue-orange: url("#wp-duotone-blue-orange");--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="../wp-content/plugins/post-avatar/head/gkl-postavatar.css" id="gkl_postavatar_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="../wp-json/index.html" rel="https://api.w.org/"/><link href="../xmlrpc.php$/rsd.php" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="../wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.0.1" name="generator"/>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style> </head>
+<body>
+<div id="main">
+<header><div id="titlecontainer">
+<div id="titlestripe"><a href="../../../../index.html"><img alt="Akemi's Anime World" class="sitetitle" height="80" src="../../media.animeworld.org/sitegraphics/akemisanimeworld-24alpha.png" width="326"/></a></div>
+</div></header>
+<div id="contentcontainer">
+<div id="content">
+<article><div class="article">
+<h1>Akemi’s Anime Blog <span class="sectionname">AAW Blog</span></h1>
+<h2>Not Found</h2>
+<p>Sorry, but you're asking for something that isn't here.</p>
+</div></article>
+</div>
+</div>
+<div id="righthandstuff">
+<div id="menu">
+<nav>
+<a class="logo" href="../../../../index.html"><img alt="AAW" class="logo" height="100" src="../../media.animeworld.org/sitegraphics/aaw-logo-alpha.png" width="172"/></a>
+<div id="searchbox">
+<form action="../../../../sitesearch.php" id="sitesearch">
+<p>
+<input id="sitesearchbox" name="search" size="35" type="text"/><br/>
+<input id="sitesearchbutton" type="submit" value="Search AAW"/>
+</p>
+</form>
+</div>
+<h2 class="hidden">Site Navigation</h2>
+<ul class="menulevel1"><li><h3>Reviews</h3>
+<ul class="menulevel2">
+<li><a href="../../../../reviews/index.html">anime by title</a></li>
+<li><a href="../../../../starindex/index.html">anime by star rating</a></li>
+<li><a href="../../../../related/index.html">anime by content</a></li>
+<li><a href="../../../../morereviews/index.html">more</a></li>
+</ul>
+</li><li><h3>Reference</h3>
+<ul class="menulevel2">
+<li><a href="../../../../reference/animefaq.html">anime FAQ</a></li>
+<li><a href="../../../../reference/glossary.html">anime glossary</a></li>
+<li><a href="../../reference.animeworld.com/index.html">Japanese dictionary</a></li>
+<li><a href="../../../../companies/index.html">US anime companies</a></li>
+<li><a href="../../../../reference/links.html">favorite links</a></li>
+</ul>
+</li><li><h3>Lessons</h3>
+<ul class="menulevel2">
+<li><a href="../../../../japanese/index.html">Japanese</a></li>
+<li><a href="../../../../howtodraw/index.html">how to draw</a></li>
+<li><a href="../../../../editorials/howtomakeafansite.html">fansite how-to</a></li>
+</ul>
+</li><li><h3>Writing</h3>
+<ul class="menulevel2">
+<li><a href="../../../../editorials/index.html">editorials</a></li>
+<li><a href="../../../../humor/index.html">humor</a></li>
+<li><a href="../../../../indie/index.html">indie anime</a></li>
+</ul>
+</li><li><h3>Fun</h3>
+<ul class="menulevel2">
+<li><a href="../../forum.animeworld.com/index.html">forums</a></li>
+<li><a class="menuselection" href="../index.html">blog</a></li>
+<li><a href="../../../../contest/index.html">contests</a></li>
+<li><a href="../../../../photos/index.html">photos</a></li>
+<li><a href="../../../../lyrics/index.html">song lyrics</a></li>
+<li><a href="../../../../topten.html">top 10s</a></li>
+<li><a href="../../../../mac/index.html">MacFace</a></li>
+</ul>
+</li><li><h3>Site</h3>
+<ul class="menulevel2">
+<li><a href="../../../../aboutaaw.html">about</a></li>
+<li><a href="../../../../sitehistory.html">history</a></li>
+<li><a href="../../../../sitefaq.html">site faq</a></li>
+<li><a href="../../../../store/index.html">store</a></li>
+<li><a href="../../../../contact/index.html">contact</a></li>
+</ul>
+</li></ul>
+<div class="longmenu">
+<h2 class="hidden">Blog Navigation</h2>
+<h3>Recent Posts</h3>
+<ul>
+<li>
+<a href="../site-status-update-and-secret-project-introduction/index.html">Site Status Update (and secret project introduction)</a>
+</li>
+<li>
+<a href="../sweet-blue-flowers-manga-notes/index.html">Sweet Blue Flowers Manga Finale Notes</a>
+</li>
+<li>
+<a href="../detroit-metal-city-notes/index.html">Detroit Metal City Notes</a>
+</li>
+<li>
+<a href="../eden-of-the-east-movies-and-fridge-rage/index.html">Eden of the East Movies and Fridge Rage</a>
+</li>
+<li>
+<a href="../rightstuf-holiday-sale-underway/index.html">RightStuf Holiday Sale Underway</a>
+</li>
+</ul>
+<h3>Categories</h3>
+<ul>
+<li class="cat-item cat-item-53"><a href="../category/anime-notes/index.html">Anime Notes</a>
+</li>
+<li class="cat-item cat-item-83"><a href="../category/anime-notes/firstimpressions/index.html" title="Comments on things I've only seen a bit of.">First Impressions</a>
+</li>
+<li class="cat-item cat-item-55"><a href="../category/japan/index.html">Japan</a>
+</li>
+<li class="cat-item cat-item-140"><a href="../category/anime-notes/live-action-adaptations/index.html">Live Action Adaptations</a>
+</li>
+<li class="cat-item cat-item-21"><a href="../category/manga/index.html">manga</a>
+</li>
+<li class="cat-item cat-item-85"><a href="../category/anime-notes/midpointnotes/index.html" title="What I'm thinking of a series as of the halfway point.">Midpoint Notes</a>
+</li>
+<li class="cat-item cat-item-183"><a href="../category/anime-notes/new-reviews/index.html">New Reviews</a>
+</li>
+<li class="cat-item cat-item-172"><a href="../category/site-news/personal/index.html">Personal</a>
+</li>
+<li class="cat-item cat-item-84"><a href="../category/anime-notes/postviewingnotes/index.html" title="Thoughts as they came to me immediately after finishing a show.">Post-viewing Notes</a>
+</li>
+<li class="cat-item cat-item-54"><a href="../category/random/index.html">Random Stuff</a>
+</li>
+<li class="cat-item cat-item-150"><a href="../category/rants/index.html">Rants</a>
+</li>
+<li class="cat-item cat-item-204"><a href="../category/anime-notes/re-watch-impressions/index.html">Re-watch Impressions</a>
+</li>
+<li class="cat-item cat-item-160"><a href="../category/shopping-2/index.html">Shopping</a>
+</li>
+<li class="cat-item cat-item-56"><a href="../category/site-news/index.html">Site News</a>
+</li>
+<li class="cat-item cat-item-43"><a href="../category/technology/index.html">Technology</a>
+</li>
+<li class="cat-item cat-item-139"><a href="../category/videogames/index.html">Video Games</a>
+</li>
+<li class="cat-item cat-item-250"><a href="../category/voice-actors/index.html">Voice Actors</a>
+</li>
+<li class="cat-item cat-item-52"><a href="../category/japan/j-happenings/index.html">What's Happenin' In Japan</a>
+</li>
+</ul>
+<h3>Archives</h3>
+<ul>
+<li><a href="../2014/07/index.html">July 2014</a></li>
+<li><a href="../2013/08/index.html">August 2013</a></li>
+<li><a href="../2013/03/index.html">March 2013</a></li>
+<li><a href="../2012/12/index.html">December 2012</a></li>
+<li><a href="../2012/11/index.html">November 2012</a></li>
+<li><a href="../2012/09/index.html">September 2012</a></li>
+<li><a href="../2012/08/index.html">August 2012</a></li>
+<li><a href="../2012/07/index.html">July 2012</a></li>
+<li><a href="../2012/04/index.html">April 2012</a></li>
+<li><a href="../2012/02/index.html">February 2012</a></li>
+<li><a href="../2012/01/index.html">January 2012</a></li>
+<li><a href="../2011/12/index.html">December 2011</a></li>
+<li><a href="../2011/10/index.html">October 2011</a></li>
+<li><a href="../2011/09/index.html">September 2011</a></li>
+<li><a href="../2011/08/index.html">August 2011</a></li>
+<li><a href="../2011/07/index.html">July 2011</a></li>
+<li><a href="../2011/06/index.html">June 2011</a></li>
+<li><a href="../2011/05/index.html">May 2011</a></li>
+<li><a href="../2011/04/index.html">April 2011</a></li>
+<li><a href="../2011/03/index.html">March 2011</a></li>
+<li><a href="../2011/02/index.html">February 2011</a></li>
+<li><a href="../2011/01/index.html">January 2011</a></li>
+<li><a href="../2010/12/index.html">December 2010</a></li>
+<li><a href="../2010/11/index.html">November 2010</a></li>
+<li><a href="../2010/10/index.html">October 2010</a></li>
+<li><a href="../2010/09/index.html">September 2010</a></li>
+<li><a href="../2010/08/index.html">August 2010</a></li>
+<li><a href="../2010/07/index.html">July 2010</a></li>
+<li><a href="../2010/06/index.html">June 2010</a></li>
+<li><a href="../2010/05/index.html">May 2010</a></li>
+<li><a href="../2010/04/index.html">April 2010</a></li>
+<li><a href="../2010/03/index.html">March 2010</a></li>
+<li><a href="../2010/02/index.html">February 2010</a></li>
+<li><a href="../2010/01/index.html">January 2010</a></li>
+<li><a href="../2009/12/index.html">December 2009</a></li>
+<li><a href="../2009/11/index.html">November 2009</a></li>
+<li><a href="../2009/10/index.html">October 2009</a></li>
+<li><a href="../2009/09/index.html">September 2009</a></li>
+<li><a href="../2009/08/index.html">August 2009</a></li>
+<li><a href="../2009/07/index.html">July 2009</a></li>
+<li><a href="../2009/06/index.html">June 2009</a></li>
+<li><a href="../2009/05/index.html">May 2009</a></li>
+<li><a href="../2009/04/index.html">April 2009</a></li>
+<li><a href="../2009/03/index.html">March 2009</a></li>
+<li><a href="../2009/02/index.html">February 2009</a></li>
+<li><a href="../2007/09/index.html">September 2007</a></li>
+<li><a href="../2007/08/index.html">August 2007</a></li>
+<li><a href="../2007/07/index.html">July 2007</a></li>
+<li><a href="../2007/06/index.html">June 2007</a></li>
+<li><a href="../2007/05/index.html">May 2007</a></li>
+<li><a href="../2007/04/index.html">April 2007</a></li>
+<li><a href="../2007/03/index.html">March 2007</a></li>
+</ul>
+<h3>Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Ghostwriter</span> on <a href="../site-status-update-and-secret-project-introduction/comment-page-1/#comment-12362/index.html">Site Status Update (and secret project introduction)</a></li><li class="recentcomments"><span class="comment-author-link">Matt</span> on <a href="../detroit-metal-city-notes/comment-page-1/#comment-10563/index.html">Detroit Metal City Notes</a></li><li class="recentcomments"><span class="comment-author-link">Chainclaw</span> on <a href="../detroit-metal-city-notes/comment-page-1/#comment-10513/index.html">Detroit Metal City Notes</a></li><li class="recentcomments"><span class="comment-author-link">linespalsy</span> on <a href="../detroit-metal-city-notes/comment-page-1/#comment-10507/index.html">Detroit Metal City Notes</a></li><li class="recentcomments"><span class="comment-author-link"><a class="url" href="../../www.mangauk.com/$/p=paradise-found-2/index.html" rel="external nofollow ugc">Edward</a></span> on <a href="../eden-of-the-east-movies-and-fridge-rage/comment-page-1/#comment-10367/index.html">Eden of the East Movies and Fridge Rage</a></li></ul> </div>
+</nav>
+<br style="clear:both;"/>
+</div>
+<aside>
+<div class="advertising"><div class="sidebox ads">
+<h2>Ads</h2>
+<div style="width: 300px;margin-left:auto;margin-right:auto;">
+<!-- Beginning of Project Wonderful ad code: -->
+<!-- Ad box ID: 49409 -->
+<script type="text/javascript">
+<!--
+var pw_d=document;
+pw_d.projectwonderful_adbox_id = "49409";
+pw_d.projectwonderful_adbox_type = "7";
+pw_d.projectwonderful_foreground_color = "";
+pw_d.projectwonderful_background_color = "";
+//-->
+</script>
+<script src="../../www.projectwonderful.com/ad_display.js" type="text/javascript"></script>
+<!-- End of Project Wonderful ad code. -->
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<footer>
+<div id="footer">
+<p>Questions or comments? <a href="../../../../contact/index.html">Contact us</a>.<br>
+©1997-2010 Marc &amp; Akemi Marshall.  Page generated <!--WMDepIgnore-->Mon Jun 21 22:40:42 2010<!--/WMDepIgnore--> <img alt="counter" height="5" src="../../counter.dreamhost.com/cgi-bin/Count.cgi$/df=nnsite.dat&amp;dd=E&amp;istrip=T&amp;pad=F&amp;ft=0.cgi" width="10"/><br/>
+	Any images are the property of their respective rightsholders, and included for review purposes only under the fair-use clause of US copyright law.</br></p>
+</div>
+</footer>
+<a href="https://dafoster.net/projects/crystal-web-archiver/" id="cr-footer-banner" style="border-top: 2px #B40010 solid;background: #FFFAE1;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-variant: initial;font-weight: initial;text-transform: none;font-size: 14px;color: #6c757d;line-height: 2.0;cursor: pointer;display: flex;align-items: center;justify-content: center;gap: 4px;clear: both;" target="_blank"><img height="24" onerror="this.style['display'] = 'none';" src="../../../crystal/resources/appicon.png" width="24"/><span>This page was archived with Crystal</span><script>window.addEventListener('load', function() { const $1 = document.querySelector('#cr-footer-banner'); if (!$1) { return; } if (window !== window.top) { let $2 = false; if (window.name) { const $3 = window.parent.document.getElementsByName(window.name); if ($3.length === 1) { const $4 = $3[0]; if ($4.tagName === 'FRAME' && $4.parentElement.tagName === 'FRAMESET') { let $5 = $4; while (true) { if ($5.parentElement.tagName !== 'FRAMESET') { $2 = true; break; } if ($5.parentElement.attributes['rows'] !== undefined) { const $6 = $5.parentElement.children; if ($5 === $6[$6.length - 1]) { $5 = $5.parentElement; continue; } else { break; } } else if ($5.parentElement.attributes['cols'] !== undefined) { const $7 = Array.from($5.parentElement.children); const $8 = $7.indexOf($5); if ($8 === -1) { break; } const $9 = $5.parentElement.attributes['cols'].value.split(','); const $10 = $9.map((s) => parseInt(s.trim())); if ($9[$8].trim() === '*' || $10[$8] === Math.max.apply(null, $10)) { $5 = $5.parentElement; continue; } else { break; } } else { break; } } } } } if (!$2) { $1.style['display'] = 'none'; } } const $11 = $1.getBoundingClientRect(); const $12 = ($11.y < window.innerHeight - $11.height); if ($12) { $1.style['position'] = 'fixed'; $1.style['bottom'] = '0'; $1.style['left'] = '0'; $1.style['right'] = '0'; $1.style['z-index'] = '9999'; } const $13 = ( document.body.getBoundingClientRect().height < $11.height * 2 ); if ($13) { $1.style['display'] = 'none'; }
+});</script></a></body>
+</html>
